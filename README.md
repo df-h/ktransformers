@@ -377,6 +377,6 @@ KTransformer is actively maintained and developed by contributors from the <a hr
 
 If you have any questions, feel free to open an issue. Alternatively, you can join our WeChat group for further discussion. QR Code: [WeChat Group](WeChatGroup.png)
 
-<h2 id="FAQ">🙋 FAQ</h2>
+<h2 id="FAQ">🙋1 FAQ</h2>
 
 Some common questions are answered in the [FAQ](doc/en/FAQ.md).
