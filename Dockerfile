@@ -3,8 +3,8 @@ WORKDIR /home
 COPY . .
 RUN <<EOF
 cd ktransformers/website/ &&
-npm install @vue/cli &&
-npm run build &&
+npm install @vue/cli --registry=https://registry.npmmirror.com/ &&
+npm run build --registry=https://registry.npmmirror.com/ &&
 rm -rf node_modules
 EOF
 
